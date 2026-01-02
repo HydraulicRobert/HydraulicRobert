@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **Spring, React, Delphi, Datasnap**
 
-- 📫 Reach me via **rotaszko@gmx.net**
-
 - ⚡ Fun fact **I learn quickly**
 
 <h3 align="left">Connect with me:</h3>
