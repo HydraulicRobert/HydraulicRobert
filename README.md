@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hydraulicrobert&label=Profile%20views&color=0e75b6&style=flat" alt="hydraulicrobert" /> </p>
 
-- 🚀 **Highlight Project**, a fully fledged REST API with authentication, authorization logging and intelligent caching, can be found here [NotificationAPI](https://github.com/HydraulicRobert/NotificationAPI). The Frontend that is based on JavaScript with React can be found here:  [NotificationAPI_Frontend](https://github.com/HydraulicRobert/NotificationAPI_Frontend)
+- 🚀 **Highlight Project**, a fully fledged REST API with authentication, authorization, logging and intelligent caching, can be found here [NotificationAPI](https://github.com/HydraulicRobert/NotificationAPI). The Frontend that is based on JavaScript with React can be found here:  [NotificationAPI_Frontend](https://github.com/HydraulicRobert/NotificationAPI_Frontend)
 
 - 👨‍💻 Some of my projects are posted on [https://github.com/HydraulicRobert/](https://github.com/HydraulicRobert/)
 
